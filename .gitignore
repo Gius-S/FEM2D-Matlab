@@ -1,0 +1,62 @@
+# ============================================================
+#  macOS
+# ============================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+Thumbs.db
+
+# ============================================================
+#  MATLAB
+# ============================================================
+
+# Compiled MEX binaries
+*.mex*
+*.mexmaci64
+*.mexmaca64
+*.mexw64
+*.mexglx
+
+# Autosave files
+*.asv
+*.m~
+
+# Simulink generated files
+*.slxc
+slprj/
+sccprj/
+
+# MATLAB code generation
+codegen/
+
+# Workspace variables
+*.mat
+
+# Packaged apps
+*.mlappinstall
+*.mlpkginstall
+*.mltbx
+
+# Profiler output
+*.mlp
+
+# ============================================================
+#  Editor / IDE
+# ============================================================
+
+# VS Code
+.vscode/
+
+# JetBrains (MATLAB plugin)
+.idea/
+
+# ============================================================
+#  Misc
+# ============================================================
+*.log
+*.tmp
+*.bak
