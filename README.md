@@ -46,7 +46,7 @@ This benchmark is a classic example where the solution has a **corner singularit
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/FEM2D-Laplacian-MATLAB.git
-   cd FEM2D-Laplacian-MATLAB
+   cd FEM2D-Matlab
    ```
 
 2. Open MATLAB and navigate to the project folder.
